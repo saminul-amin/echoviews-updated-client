@@ -7,7 +7,7 @@ import {
 
 export default function Footer() {
   return (
-    <div className="mt-16 pb-16 text-center bg-base-300 rounded-t-2xl">
+    <div className="mt-16 pb-4 text-center rounded-t-2xl bg-gradient-to-b from-white via-base-200 to-base-300">
       <h2 className="pt-8 text-3xl font-bold">EchoViews</h2>
       <p className="text-gray-500 mx-3 md:mx-0 my-6 font-semibold text-lg">
         Express your experiences, connect with others, and amplify your voice
@@ -47,6 +47,10 @@ export default function Footer() {
         <FaXTwitter />
         <FaYoutube />
         <FaInstagram />
+      </div>
+      <div className="divider"></div>
+      <div className="container mx-auto max-w-6xl px-4 text-center">
+        <p>© {new Date().getFullYear()} - All rights reserved</p>
       </div>
     </div>
   );

@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Wasif Rahman",
+        "role": "Customer",
+        "testimonial": "EchoViews made it so easy to find trustworthy service providers. The detailed reviews helped me make the right choice!",
+        "rating": 5,
+        "image": "https://i.ibb.co.com/3Wnwb00/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "James Carter",
+        "role": "Business Owner",
+        "testimonial": "Managing customer feedback has never been this seamless. EchoViews helped us improve our services based on real insights!",
+        "rating": 4.5,
+        "image": "https://i.ibb.co.com/FWPJDnS/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Mehdi Hassan",
+        "role": "Freelancer",
+        "testimonial": "I got my first big client through EchoViews! The honest reviews helped me build credibility and grow my business.",
+        "rating": 5,
+        "image": "https://i.ibb.co.com/8X194mK/3.jpg"
+    },
+    {
+        "id": 4,
+        "name": "John Kim",
+        "role": "Customer",
+        "testimonial": "I was skeptical about trying new services, but EchoViews made it easy to trust providers with real user feedback.",
+        "rating": 4.8,
+        "image": "https://i.ibb.co.com/hRm2qJL/4.jpg"
+    },
+    {
+        "id": 5,
+        "name": "David Anderson",
+        "role": "Service Provider",
+        "testimonial": "Thanks to EchoViews, I can showcase my work with verified customer testimonials. It’s a game-changer for my business!",
+        "rating": 5,
+        "image": "https://i.ibb.co.com/LZzW6dd/5.jpg"
+    },
+    {
+        "id": 6,
+        "name": "David Andersen",
+        "role": "Customer",
+        "testimonial": "The review system is super transparent. I love how I can filter reviews to find exactly what I need!",
+        "rating": 4.7,
+        "image": "https://i.ibb.co.com/N1S3TWF/6.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Rahul Sharma",
+        "role": "Freelancer",
+        "testimonial": "EchoViews has helped me gain visibility in my industry. The review verification system ensures trust and authenticity!",
+        "rating": 4.9,
+        "image": "https://i.ibb.co.com/0DL3ccj/7.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Robert Hue",
+        "role": "Customer",
+        "testimonial": "I rely on EchoViews before hiring any service. The ratings and reviews are always accurate and helpful!",
+        "rating": 5,
+        "image": "https://i.ibb.co.com/HHz7jV5/8.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Mark Wilson",
+        "role": "Business Owner",
+        "testimonial": "EchoViews helped us get honest feedback from our clients, allowing us to enhance our services significantly.",
+        "rating": 4.6,
+        "image": "https://i.ibb.co.com/8X194mK/3.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Amber Lee",
+        "role": "Service Provider",
+        "testimonial": "Getting direct feedback from customers through EchoViews has helped me refine my offerings. Highly recommend it!",
+        "rating": 4.8,
+        "image": "https://i.ibb.co.com/0DL3ccj/7.jpg"
+    }
+]
