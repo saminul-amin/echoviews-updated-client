@@ -60,7 +60,7 @@ So, step right up, type your heart out, and let your reviews echo louder than yo
 ## 🤝 Contact Me  
 Have feedback about EchoViews or just want to chat about code, cricket, or coffee? Reach out!  
 
-📧 Email: [samin@example.com](mailto:saminul.amin@gmail.com)   
+📧 Email: [saminul.amin@gmail.com](mailto:saminul.amin@gmail.com)   
 👨‍💻 LinkedIn: [Md. Saminul Amin](https://www.linkedin.com/in/md-saminul-amin-91605730a)  
 
 ---

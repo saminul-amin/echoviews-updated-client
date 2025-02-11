@@ -13,7 +13,7 @@ export default function HeroSection() {
   // console.log(data);
 
   return (
-    <div className="w-5/6 mx-auto">
+    <div className="w-5/6 mx-auto mt-24">
       <h2 className="text-center text-4xl font-semibold">Featured Services</h2>
       <p className="text-center mt-3 mb-16 text-lg">
         Explore our top-rated services, chosen to deliver exceptional quality
