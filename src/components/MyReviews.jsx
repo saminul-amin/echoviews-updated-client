@@ -101,7 +101,7 @@ export default function MyReviews() {
   };
 
   return (
-    <div className="w-5/6 mx-auto">
+    <div className="w-5/6 mx-auto max-w-6xl mt-24">
       <Intro heading={heading} desc={desc} />
       {/* {data.length} */}
       <div>

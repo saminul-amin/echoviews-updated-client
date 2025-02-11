@@ -60,7 +60,7 @@ export default function SignUp() {
   };
 
   return (
-    <div className="min-h-screen flex justify-center items-center">
+    <div className="mt-24 min-h-screen flex justify-center items-center">
       <div className="card bg-base-200 w-full max-w-lg shrink-0 rounded-2xl p-10">
         <h2 className="text-2xl font-semibold text-center">
           Register your account

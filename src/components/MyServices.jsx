@@ -119,13 +119,13 @@ export default function MyServices() {
   };
 
   return (
-    <div className="w-5/6 mx-auto">
+    <div className="w-5/6 mx-auto max-w-6xl mt-24">
       <Intro heading={heading} desc={desc} />
       {/* {data.length} */}
       <div className="flex items-center justify-end my-8">
         <input
           type="text"
-          className="border-gray-500 border-2 rounded-xl py-3 px-4 w-1/3"
+          className="border-gray-500 border-2 rounded-xl py-3 px-4 w-1/3 focus:outline-none focus:ring focus:ring-stone-700"
           placeholder="Search..."
           onChange={handleChange}
           value={search}

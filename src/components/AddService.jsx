@@ -48,8 +48,8 @@ export default function AddService() {
   };
 
   return (
-    <div className="mt-12 min-h-screen flex justify-center items-center">
-      <div className="card bg-base-200 w-full max-w-xl shrink-0 rounded-2xl p-10 ">
+    <div className="min-h-screen flex justify-center items-center mt-24">
+      <div className="card bg-stone-100 w-full max-w-xl shrink-0 rounded-2xl p-10 ">
         <h2 className="text-2xl font-semibold text-center">
           Fill up this form to add new service
         </h2>
@@ -140,7 +140,7 @@ export default function AddService() {
             />
           </div>
           <div className="form-control mt-6">
-            <button className="btn btn-neutral font-semibold text-lg text-white rounded-md">
+            <button className="btn bg-stone-700 hover:bg-stone-950 font-semibold text-lg text-white rounded-md">
               Submit
             </button>
           </div>

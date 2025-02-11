@@ -44,8 +44,8 @@ export default function SignIn() {
   };
 
   return (
-    <div className="min-h-screen flex justify-center items-center">
-      <div className="card bg-base-200 w-full max-w-lg shrink-0 rounded-2xl p-10 ">
+    <div className="mt-12 min-h-screen flex justify-center items-center">
+      <div className="card bg-base-200 w-full max-w-lg shrink-0 rounded-2xl p-10">
         <h2 className="text-2xl font-semibold text-center">
           Login your account
         </h2>

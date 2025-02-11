@@ -7,7 +7,7 @@ import {
 
 export default function Footer() {
   return (
-    <div className="mt-16 pb-4 text-center rounded-t-2xl bg-gradient-to-b from-white via-base-200 to-base-300">
+    <div className="mt-16 pb-4 text-center rounded-t-2xl bg-gradient-to-b from-base-300 via-base-100 to-base-200 mx-auto">
       <h2 className="pt-8 text-3xl font-bold">EchoViews</h2>
       <p className="text-gray-500 mx-3 md:mx-0 my-6 font-semibold text-lg">
         Express your experiences, connect with others, and amplify your voice
