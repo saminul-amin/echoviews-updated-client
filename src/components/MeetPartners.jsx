@@ -16,7 +16,7 @@ export default function MeetPartners() {
   }, []);
 
   return (
-    <div className="w-5/6 mx-auto">
+    <div className="max-w-6xl mx-auto w-5/6">
       <Intro heading={heading} desc={desc} />
       <motion.div
         initial={{ y: 100, opacity: 0 }}

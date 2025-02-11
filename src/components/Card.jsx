@@ -6,9 +6,9 @@ export default function Card({ service }) {
   //   console.log(service);
   return (
     <div>
-      <div className="card bg-base-100 w-80 md:w-84 lg:w-88 xl:w-96 shadow-xl">
+      <div className="card bg-base-100 w-80 md:w-84 lg:w-88 xl:w-[368px] shadow-xl">
         <figure>
-          <img src={image} alt={title} className="h-96 rounded-2xl w-full" />
+          <img src={image} alt={title} className="h-[368px] rounded-2xl w-full" />
         </figure>
         <div className="card-body">
           <h2 className="card-title">{title}</h2>

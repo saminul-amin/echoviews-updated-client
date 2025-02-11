@@ -14,7 +14,8 @@ export default function Home() {
 
   return (
     <div>
-      <div className="flex items-center w-11/12 justify-end mb-8 mt-24">
+      <Banner />
+      {/* <div className="flex items-center w-11/12 justify-end mb-8 mt-24">
         <input
           type="text"
           className="border-gray-500 border-2 rounded-xl py-3 px-4 w-1/3"
@@ -22,15 +23,16 @@ export default function Home() {
           onChange={handleChange}
           value={search}
         />
-      </div>
+      </div> */}
+      
       {search === "" ? (
         <>
-          <Banner /> <HeroSection />
-          <MeetPartners />
+          <HeroSection />
         </>
       ) : (
         <SearchResult keyword={search} />
       )}
+      <MeetPartners />
     </div>
   );
 }
