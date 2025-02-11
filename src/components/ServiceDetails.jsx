@@ -15,7 +15,7 @@ export default function ServiceDetails() {
     "Delivering professional solutions tailored to your needs, with a focus on quality, creativity, and results-driven outcomes.";
 
   return (
-    <div className="w-5/6 mx-auto">
+    <div className="w-5/6 mx-auto max-w-6xl mt-24">
       <Intro heading={heading} desc={desc} />
 
       <motion.div initial={{ y: 100, opacity: 0 }}

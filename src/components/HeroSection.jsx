@@ -23,7 +23,7 @@ export default function HeroSection() {
       <div className="flex items-center justify-end mb-8 mt-24">
         <input
           type="text"
-          className="border-gray-500 border-2 rounded-xl py-3 px-4 w-1/3"
+          className="border-gray-500 border-2 rounded-xl py-3 px-4 w-1/3 focus:outline-none focus:ring focus:ring-stone-700"
           placeholder="Search..."
           onChange={handleChange}
           value={search}
