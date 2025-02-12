@@ -4,7 +4,7 @@ import { AuthContext } from "../providers/AuthProvider";
 
 export default function Navbar() {
   const { user, userSignOut, loading } = useContext(AuthContext);
-  
+
   const links = (
     <>
       <li>
@@ -95,10 +95,7 @@ export default function Navbar() {
               {links}
             </ul>
           </div>
-          <Link
-            to={"/"}
-            className="btn btn-ghost text-xl"
-          >
+          <Link to={"/"} className="btn btn-ghost text-xl">
             EchoViews
           </Link>
         </div>
